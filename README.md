@@ -5,5 +5,3 @@ Expert in Java programing and advanced test automation frameworks. Proficient in
 methodologies using tools like Selenium WebDriver, Cucumber, Maven, Jenkins and Postman. Committed to delivering high-quality
 software products by introducing innovative test cases and processes.
 
-<!--
-**axelmisrain/axelmisrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
